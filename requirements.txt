@@ -1,0 +1,13 @@
+numpy~=1.26.4
+pickle-mixin
+streamlit~=1.37.1
+seaborn
+pandas~=2.2.2
+matplotlib
+scikit_learn
+tensorflow~=2.17.0
+keras
+opencv_python_headless
+
+pillow~=10.4.0
+scikit-learn~=1.5.1
